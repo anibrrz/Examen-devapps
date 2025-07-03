@@ -17,3 +17,5 @@ Una vez tenga un mapa mental del código considere los siguientes enunciados y c
 5. En el frontend ya hay una base de código para agregar la funcionalidad de "adoptar una mascota". Adoptar una mascota significa cambiarle el estado de EN_ADOPCION a ADOPTADA. Complete el código de las formas que considere necesarias para soportar este comportamiento de forma completa.
 
 Puede pasar a solucionar los puntos del frontend.
+
+*Me hubiera gustado poder levantar el backend pero no hubo caso, le di mil vueltas con la conexion a la base. Voy a solucionarlo en casa para la proxima.
